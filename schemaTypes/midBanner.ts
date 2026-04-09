@@ -1,6 +1,6 @@
 export default {
     name: "midBanner",
-    title: "Mid Banner",
+    title: "Mid Banner (Homepage)",
     type: "document",
     fields: [
       {

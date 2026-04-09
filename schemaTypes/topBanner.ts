@@ -1,6 +1,6 @@
 export default {
     name: "topBanner",
-    title: "Top Banner",
+    title: "Top Banner (Homepage)",
     type: "document",
     fields: [
       {
