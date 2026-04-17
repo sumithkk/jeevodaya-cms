@@ -12,6 +12,22 @@ import trustee from "./trustee"
 import aboutBanner from "./aboutBanner"
 import privilege from "./privilege"
 import career from "./career"
-import messages from "./messages"
+import message from "./message"
 
-export const schemaTypes = [topBanner, midBanner, featuredDoctor, newsImage, newsVideo, feedbackVideo, healthCheckup, healthCamp, doctor, testimonial, trustee, aboutBanner, privilege, career, messages]
+export const schemaTypes = [
+    topBanner,
+    midBanner,
+    featuredDoctor,
+    newsImage,
+    newsVideo,
+    feedbackVideo,
+    healthCheckup,
+    healthCamp,
+    doctor,
+    testimonial,
+    trustee,
+    aboutBanner,
+    privilege,
+    career,
+    message,
+  ]
